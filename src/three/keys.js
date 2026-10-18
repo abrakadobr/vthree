@@ -1,0 +1,5 @@
+export const ThreeRendererContextKey = Symbol('ThreeRendererContext')
+export const ThreeSceneKey = Symbol('ThreeScene')
+export const ThreeObject3DParentKey = Symbol('ThreeObject3DParent')
+export const ThreeCameraKey = Symbol('ThreeCamera')
+export const ThreeMeshHostKey = Symbol('ThreeMeshHost')

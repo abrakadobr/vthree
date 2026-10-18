@@ -16,7 +16,13 @@
 }
 
 nav {
-  padding: 30px;
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 10;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
 }
 
 nav a {
